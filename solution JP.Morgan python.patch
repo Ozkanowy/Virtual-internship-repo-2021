@@ -90,3 +90,4 @@ index a608a01..8462584 100644
  
  if __name__ == '__main__':
      unittest.main()
+Interface with a stock price data feed
